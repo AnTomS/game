@@ -1,0 +1,15 @@
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\Main.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\core\Command.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\core\Game.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\core\InvalidCommandException.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\core\SaveLoad.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\core\WorldInfo.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Entity.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\GameState.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Item.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Key.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Monster.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Player.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Potion.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Room.java
+F:\Java Project\game\java-console-game-template\src\com\example\dungeon\model\Weapon.java
